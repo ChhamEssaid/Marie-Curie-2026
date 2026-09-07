@@ -2,12 +2,13 @@
 
 ## Continuar el trabajo
 
-La versión vigente es **v9.5**, en [STRAT_TRACE_2026-09-07_21-19-44_Madrid](STRAT_TRACE_2026-09-07_21-19-44_Madrid/README.md).
+La versión vigente es **v9.6**, guardada el **8 de septiembre de 2026 a las 00:02:23, Europe/Madrid**, en [STRAT_TRACE_2026-09-08_00-02-23_Madrid](STRAT_TRACE_2026-09-08_00-02-23_Madrid/README.md).
 
-- [CURRENT_STATE actualizado](STRAT_TRACE_2026-09-07_21-19-44_Madrid/CURRENT_STATE.md)
-- [Propuesta v9.5 en Word](STRAT_TRACE_2026-09-07_21-19-44_Madrid/STRAT_TRACE_MSCA_PROPOSAL_v9_5.docx)
-- [Propuesta v9.5 en PDF](STRAT_TRACE_2026-09-07_21-19-44_Madrid/STRAT_TRACE_MSCA_PROPOSAL_v9_5.pdf)
+- [CURRENT_STATE actualizado](STRAT_TRACE_2026-09-08_00-02-23_Madrid/CURRENT_STATE.md)
+- [Propuesta v9.6 en Word](STRAT_TRACE_2026-09-08_00-02-23_Madrid/STRAT_TRACE_MSCA_PROPOSAL_v9_6.docx)
+- [Propuesta v9.6 en PDF](STRAT_TRACE_2026-09-08_00-02-23_Madrid/STRAT_TRACE_MSCA_PROPOSAL_v9_6.pdf)
+- [Cambios respecto a v9.5](STRAT_TRACE_2026-09-08_00-02-23_Madrid/CAMBIOS_v9_6.md)
 
-La carpeta incluye las notas de trabajo, la auditoría de cobertura histórica y el manifiesto de integridad. La revisión conserva diez páginas, incorpora las cuatro series presentes en 1986 y el respaldo de AU al cálculo, y mantiene los detalles de laboratorio fuera de Part B1.
+Esta revisión incorpora la concentración superior derivada de CRAC:Be, su control fijo coherente y el papel de JRC, DWD y CTBTO en las observaciones. Conserva diez páginas, un único DEHM, el periodo 1986–2024/2025 y la matriz controlada respaldada por AU. El paquete incluye notas científicas, auditoría de cobertura y un manifiesto de integridad.
 
-Las versiones [v9.2, v9.3 y v9.4](STRAT_TRACE_2026-09-07/) y las demás carpetas previas permanecen como archivo histórico. Para continuar, utilizar el CURRENT_STATE de la carpeta vigente y guardar futuras revisiones en otra carpeta con fecha y hora.
+La [v9.5](STRAT_TRACE_2026-09-07_21-19-44_Madrid/) y las [v9.2–v9.4](STRAT_TRACE_2026-09-07/) permanecen intactas. Para continuar desde otro ordenador, utilizar el CURRENT_STATE vigente y guardar futuras revisiones en otra carpeta con fecha y hora.
