@@ -1,0 +1,40 @@
+{
+  "version": "9.7",
+  "snapshot_created": "2026-09-08T00:50:33+02:00",
+  "local_review_completed": "2026-09-08T00:58:59+02:00",
+  "timezone": "Europe/Madrid",
+  "files": {
+    ".gitattributes": {
+      "bytes": 90,
+      "sha256": "b60b7c1d5055443c64b289b7481e71ee5830125372a872608aaf24140dfc5524"
+    },
+    "AUDITORIA_COBERTURA_BE7.md": {
+      "bytes": 9175,
+      "sha256": "0bd1696877e41b3a2fcbaa534fc4b1e7a0593106a44015dad86f714a711ece34"
+    },
+    "CAMBIOS_v9_7.md": {
+      "bytes": 2601,
+      "sha256": "eed32c38df519240f3036a1eedf84bea0679c6f282e8d741a6388e942ac567bb"
+    },
+    "CURRENT_STATE.md": {
+      "bytes": 23954,
+      "sha256": "f925c1a3125f5ab8ba1f36138472cc78b2a425566fe12df18695417098a3e095"
+    },
+    "NOTAS_PARA_EL_ENVIO_v9_7.md": {
+      "bytes": 25239,
+      "sha256": "abe34ff722dd93f2918715711cd779ec2cfa5e16b3a47a12974d9121390d6665"
+    },
+    "README.md": {
+      "bytes": 3115,
+      "sha256": "e15470544cf2c782ed6d9a26685d1ddd66c21551217e231d5b43dd05dc4ab92d"
+    },
+    "STRAT_TRACE_MSCA_PROPOSAL_v9_7.docx": {
+      "bytes": 59564,
+      "sha256": "5fb927b86564a45cdf27b2271a9fa7da2586097c17e4b69c57a7920f8c80046a"
+    },
+    "STRAT_TRACE_MSCA_PROPOSAL_v9_7.pdf": {
+      "bytes": 425977,
+      "sha256": "8764f3289a4cd676f62733db25e96aa84ada5926f6c8497c849f2973dd078cdc"
+    }
+  }
+}
