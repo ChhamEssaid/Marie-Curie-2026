@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-07",
+  "current_version": "v9.4",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 44,
+      "sha256": "21503b30308147c62c973036d5bd69b2ba4e8ce1c225e8c6991570aeba6a4f70"
+    },
+    {
+      "path": "CURRENT_STATE.md",
+      "bytes": 10671,
+      "sha256": "b20859432f21e779366b553134b8108e4fdeae7bc077462d959eab1d9170563c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2225,
+      "sha256": "e2ddb77887613c54c81280f9552614a39f7dcd849e9e9fc59f6f183b55f9d029"
+    },
+    {
+      "path": "v9.2/STRAT_TRACE_MSCA_PROPOSAL_v9_2_observational_baseline.docx",
+      "bytes": 58284,
+      "sha256": "f0267c0356e5928328a6648457e33ced02bd7ba049ec1ca85372c1f1f7527516"
+    },
+    {
+      "path": "v9.2/STRAT_TRACE_MSCA_PROPOSAL_v9_2_observational_baseline.pdf",
+      "bytes": 393361,
+      "sha256": "f580f2b4a043fc07d35e2c6eec0f7d16d8af10cf58b906abc7af473bf44dfa14"
+    },
+    {
+      "path": "v9.3/STRAT_TRACE_MSCA_PROPOSAL_v9_3_solar_cycles.docx",
+      "bytes": 59877,
+      "sha256": "e57b3cf071bdfd0496b9eb4e16a8b6f70f62cb681fe70c190269545957e4c87b"
+    },
+    {
+      "path": "v9.3/STRAT_TRACE_MSCA_PROPOSAL_v9_3_solar_cycles.pdf",
+      "bytes": 418563,
+      "sha256": "dd01f48ba5c6f7c5e9492e4f0e310d634d6a6130f70b1d1ac9ba3d08ee884c20"
+    },
+    {
+      "path": "v9.4/NOTAS_PARA_EL_ENVIO_v9_4.md",
+      "bytes": 3887,
+      "sha256": "d8cbda6cc5171215b14fa8577f66175645d47196f949739dd0acc1005dcb32cc"
+    },
+    {
+      "path": "v9.4/STRAT_TRACE_MSCA_PROPOSAL_v9_4.docx",
+      "bytes": 58568,
+      "sha256": "59cff5a38fc462e1357c0a3280c7d05e060a36d8274e67ab031bea0aa2469155"
+    },
+    {
+      "path": "v9.4/STRAT_TRACE_MSCA_PROPOSAL_v9_4.pdf",
+      "bytes": 408760,
+      "sha256": "79fed84ebfc31aea660fe09586d295613e4124e7dd684b7515fb5ef84d333a17"
+    }
+  ]
+}
