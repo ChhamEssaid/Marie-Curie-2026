@@ -1,0 +1,43 @@
+{
+  "version": "9.5",
+  "revision_started": "2026-09-07T21:19:44+02:00",
+  "prepared_at": "2026-09-07T21:25:12+02:00",
+  "timezone": "Europe/Madrid",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 44,
+      "sha256": "21503b30308147c62c973036d5bd69b2ba4e8ce1c225e8c6991570aeba6a4f70"
+    },
+    {
+      "path": "AUDITORIA_COBERTURA_BE7.md",
+      "bytes": 9175,
+      "sha256": "0bd1696877e41b3a2fcbaa534fc4b1e7a0593106a44015dad86f714a711ece34"
+    },
+    {
+      "path": "CURRENT_STATE.md",
+      "bytes": 14543,
+      "sha256": "b21aa73e2396bd5526542ad4c3f149967cbd696d9000990cfa6384804caea79f"
+    },
+    {
+      "path": "NOTAS_PARA_EL_ENVIO_v9_5.md",
+      "bytes": 10681,
+      "sha256": "8cfd196a394115f89ed61cb88a782fe89bc58744ae4e6516475ba31c401b6ee1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3514,
+      "sha256": "f2c646a99d019ecce20e4c17843fa403db79fddd3902b61501670c54795b9b18"
+    },
+    {
+      "path": "STRAT_TRACE_MSCA_PROPOSAL_v9_5.docx",
+      "bytes": 58730,
+      "sha256": "6350ca4980561b8a9380a9eaef748ba003a3469362eb4ae597b9f8eb9ba346b2"
+    },
+    {
+      "path": "STRAT_TRACE_MSCA_PROPOSAL_v9_5.pdf",
+      "bytes": 409660,
+      "sha256": "7ee592bad8ef6541736ee3584ba6339c60656d1dcdf01b37fd05d845c119d176"
+    }
+  ]
+}
