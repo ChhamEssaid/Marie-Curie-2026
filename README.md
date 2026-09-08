@@ -17,3 +17,17 @@ La opción de usar concentraciones de Zheng a 100 hPa está valorada en CURRENT_
 La [v9.10](STRAT_TRACE_2026-09-08_12-22-52_Madrid/), [v9.9](STRAT_TRACE_2026-09-08_08-25-07_Madrid/), [v9.7](STRAT_TRACE_2026-09-08_00-50-33_Madrid/) y demás versiones anteriores permanecen intactas. La v9.8 descartada no se reincorpora. Desde otro ordenador, abrir CURRENT_STATE y crear una nueva carpeta con fecha y hora para futuras revisiones.
 
 Este archivo documental no incluye observaciones originales restringidas, contratos, correspondencia privada ni código DEHM. No se ha enviado correo.
+
+<!-- STRAT-TRACE-B2-v1.0 -->
+## Part B2 — STRAT-TRACE, v1.0
+
+Versión mejorada del documento B2, preparada el 2026-09-08 15:12:33, Europe/Madrid para revisión de Essaid Chham.
+
+- [CURRENT_STATE de B2 para continuar](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/CURRENT_STATE.md)
+- [Word editable B2 v1.0](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/STRAT_TRACE_B2_v1.0.docx)
+- [PDF B2 v1.0](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/STRAT_TRACE_B2_v1.0.pdf)
+- [Cambios de B2](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/CAMBIOS_B2_v1.0.md)
+- [Fuentes y comprobaciones](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/FUENTES_Y_COMPROBACIONES.md)
+- [Manifiesto de integridad](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/MANIFEST_SHA256.json)
+
+Esta carpeta conserva el documento B2 y su estado por separado. Las revisiones de B1 y sus referencias anteriores permanecen intactas. El archivo en GitHub no constituye el envío de la candidatura.
