@@ -1,0 +1,43 @@
+{
+  "version": "9.11",
+  "status": "FINAL_CANDIDATE",
+  "created_at": "2026-09-08T13:17:33+02:00",
+  "snapshot_folder": "STRAT_TRACE_2026-09-08_13-04-01_Madrid",
+  "source_snapshot": "STRAT_TRACE_2026-09-08_12-22-52_Madrid",
+  "source_docx_sha256": "b87fd8d939f2d67efae8a5ebd69a2f9fcc299f021d4f9f56ab6fef2c2f51328a",
+  "pdf_pages": 10,
+  "all_fonts_embedded": true,
+  "visual_review_all_pages": true,
+  "scientific_change_review": true,
+  "previous_versions_untouched": true,
+  "files": {
+    "STRAT_TRACE_Proposal_v9.11.docx": {
+      "bytes": 60137,
+      "sha256": "0c55e3bd18db0024dfeaaa9789ba04eba83feec2918fda777e0bd81d109c8c41"
+    },
+    "STRAT_TRACE_Proposal_v9.11.pdf": {
+      "bytes": 808616,
+      "sha256": "c4fb2ad926a060d276e47dbb01be379d8b1ef93bb741a09f09fe78081abc9e3a"
+    },
+    "CURRENT_STATE.md": {
+      "bytes": 15296,
+      "sha256": "252fac91077b665437043064f3ea103486ae06995d4943420f9db5af11d19069"
+    },
+    "CAMBIOS_v9.11.md": {
+      "bytes": 2759,
+      "sha256": "09c032140a75e9800c33f0078e8cbc0c24de7ccc3ef7e8c9f9641246208f7da1"
+    },
+    "AUDITORIA_COBERTURA_BE7.md": {
+      "bytes": 6435,
+      "sha256": "e260888613a5466b1ee8793b2fd5f2e4aca3c79702579219c20b5041b725063c"
+    },
+    "NOTAS_PARA_EL_ENVIO.md": {
+      "bytes": 35457,
+      "sha256": "28cf88ff6df8758fa8e2b9834d7f37b9737af5257e75819426ada2428296b9cd"
+    },
+    "README.md": {
+      "bytes": 1122,
+      "sha256": "971b0d7bcc42f83953d91d344b03c8ce2533d4279cb70ae43cef17f694ca6ab0"
+    }
+  }
+}
