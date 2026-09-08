@@ -1,15 +1,17 @@
 # Marie-Curie-2026
 
-## Continuar el trabajo
+La versión vigente de STRAT-TRACE es **v9.9**, con el título científico original y Part B1 de diez páginas revisadas. Snapshot del **8 de septiembre de 2026, 08:25:07, Europe/Madrid**.
 
-La versión vigente es **v9.7**, guardada en la carpeta del **8 de septiembre de 2026, 00:50:33, Europe/Madrid**, [STRAT_TRACE_2026-09-08_00-50-33_Madrid](STRAT_TRACE_2026-09-08_00-50-33_Madrid/README.md).
+- [CURRENT_STATE para continuar](STRAT_TRACE_2026-09-08_08-25-07_Madrid/CURRENT_STATE.md)
+- [Propuesta Word v9.9](STRAT_TRACE_2026-09-08_08-25-07_Madrid/STRAT_TRACE_Proposal_v9.9.docx)
+- [Propuesta PDF v9.9](STRAT_TRACE_2026-09-08_08-25-07_Madrid/STRAT_TRACE_Proposal_v9.9.pdf)
+- [Cambios incorporados](STRAT_TRACE_2026-09-08_08-25-07_Madrid/CAMBIOS_v9.9.md)
+- [Auditoría de cobertura de datos](STRAT_TRACE_2026-09-08_08-25-07_Madrid/AUDITORIA_COBERTURA_BE7.md)
+- [Notas para el envío](STRAT_TRACE_2026-09-08_08-25-07_Madrid/NOTAS_PARA_EL_ENVIO.md)
+- [Manifiesto de integridad](STRAT_TRACE_2026-09-08_08-25-07_Madrid/MANIFEST_SHA256.json)
 
-- [CURRENT_STATE actualizado](STRAT_TRACE_2026-09-08_00-50-33_Madrid/CURRENT_STATE.md)
-- [Propuesta v9.7 en Word](STRAT_TRACE_2026-09-08_00-50-33_Madrid/STRAT_TRACE_MSCA_PROPOSAL_v9_7.docx)
-- [Propuesta v9.7 en PDF](STRAT_TRACE_2026-09-08_00-50-33_Madrid/STRAT_TRACE_MSCA_PROPOSAL_v9_7.pdf)
-- [Cambios respecto a v9.6](STRAT_TRACE_2026-09-08_00-50-33_Madrid/CAMBIOS_v9_7.md)
-- [Notas para el envío](STRAT_TRACE_2026-09-08_00-50-33_Madrid/NOTAS_PARA_EL_ENVIO_v9_7.md)
+La revisión incorpora a Jesper Heile Christensen como mentor complementario, mantiene a Zhuyun Ye como supervisora principal y concreta una futura propuesta sobre ⁷Be por tamaños, con NERD como posible vía de financiación. Cuantifica más de 54.000 registros en aire de 83 series nominales durante 2009–2024; la entrega CTBTO sigue pendiente. Conserva DEHM único, la matriz controlada, 1986–2024/2025 y los 24 PM.
 
-Esta revisión incorpora la futura interfaz de descarga directa de outputs publicados, la licencia abierta de las herramientas nuevas y la estimación de almacenamiento. Los productos curados se archivan con identificadores persistentes y las observaciones se obtienen de JRC/DWD/CTBTO según sus condiciones. Conserva diez páginas revisadas, el único DEHM, 1986–2024/2025, la matriz controlada y el respaldo de AU. La interfaz queda como entregable de WP5; esta revisión no la despliega.
+La [v9.7](STRAT_TRACE_2026-09-08_00-50-33_Madrid/), [v9.6](STRAT_TRACE_2026-09-08_00-02-23_Madrid/), [v9.5](STRAT_TRACE_2026-09-07_21-19-44_Madrid/) y las demás versiones anteriores permanecen intactas. La v9.8 fue descartada y no forma parte de esta publicación. Para continuar desde otro ordenador, abrir el CURRENT_STATE vigente y guardar futuras revisiones en otra carpeta con fecha y hora.
 
-El paquete contiene Word, PDF, estado, notas, cambios, auditoría de cobertura y manifiesto de integridad. La [v9.6](STRAT_TRACE_2026-09-08_00-02-23_Madrid/), [v9.5](STRAT_TRACE_2026-09-07_21-19-44_Madrid/) y las [v9.2–v9.4](STRAT_TRACE_2026-09-07/) permanecen intactas. Para otra revisión, partir del CURRENT_STATE vigente y crear una carpeta con nueva fecha y hora.
+Este archivo documental no incorpora observaciones originales restringidas, contratos, correspondencia privada ni código DEHM. No se ha enviado correo.

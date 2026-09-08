@@ -1,0 +1,42 @@
+{
+  "version": "9.9",
+  "created_at": "2026-09-08T04:55:04.730079+02:00",
+  "source": "STRAT_TRACE_Proposal_v9.7.docx",
+  "source_sha256": "5fb927b86564a45cdf27b2271a9fa7da2586097c17e4b69c57a7920f8c80046a",
+  "pdf_pages": 10,
+  "all_pages_visually_reviewed": true,
+  "publication_snapshot": "2026-09-08T08:25:07+02:00",
+  "publication_repository": "https://github.com/ChhamEssaid/Marie-Curie-2026.git",
+  "scientific_documents_unchanged": true,
+  "source_snapshot": "STRAT_TRACE_2026-09-08_04-43-50_Madrid",
+  "files": {
+    "STRAT_TRACE_Proposal_v9.9.docx": {
+      "bytes": 59923,
+      "sha256": "97abb45f76246ad27bb0591ea4f708485deccdc4df24d8fdd57773762cc13bf0"
+    },
+    "STRAT_TRACE_Proposal_v9.9.pdf": {
+      "bytes": 1099930,
+      "sha256": "5592a9ea0c4c0a257959aeddb9f96b1cbe4caacc735a42e8cf4d50785e7f8ae1"
+    },
+    "CURRENT_STATE.md": {
+      "bytes": 11788,
+      "sha256": "362c4f07945bedec240e1b1fe2f00365e3a33a6461d9e3fddb4dd272fd282014"
+    },
+    "CAMBIOS_v9.9.md": {
+      "bytes": 2412,
+      "sha256": "0f8e7fbc42c02e0bbb6775e9e3e6e6838a79b53411356cc769690232b4761527"
+    },
+    "AUDITORIA_COBERTURA_BE7.md": {
+      "bytes": 3695,
+      "sha256": "d8ff2b61216e9f490a4bd455725365f4bf7bdfb991dc2fe8c496278e53707dd2"
+    },
+    "NOTAS_PARA_EL_ENVIO.md": {
+      "bytes": 27362,
+      "sha256": "8684e95d39e9b51b86e6da81e0f5a2413cda11185bdfb00aec7aefa70b964d60"
+    },
+    "README.md": {
+      "bytes": 1034,
+      "sha256": "97b17bf1f47323dac21648bb45858e382c15ba7a455a88bd37711c7971e395d0"
+    }
+  }
+}
