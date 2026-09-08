@@ -1,17 +1,16 @@
-# CURRENT_STATE — STRAT-TRACE / Part B2
+# CURRENT_STATE — STRAT-TRACE Part B2
 
-**Versión de B2: v1.0.** Preparada el 2026-09-08 15:12:33, Europe/Madrid, para revisión de Essaid Chham.
+**Versión vigente de B2: v1.2**, preparada el 2026-09-08T17:49:22+02:00.
 
-Título científico: **STRAT-TRACE — Source-tagged ⁷Be for process-aware aerosol model evaluation**.
+- [Estado completo de esta revisión](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/CURRENT_STATE.md)
+- [Word editable](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/STRAT_TRACE_B2_v1.2.docx)
+- [PDF de seis páginas](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/STRAT_TRACE_B2_v1.2.pdf)
+- [Cambios](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/CAMBIOS_B2_v1.2.md)
+- [Fuentes y comprobaciones](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/FUENTES_Y_COMPROBACIONES.md)
+- [Manifiesto](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/MANIFEST_SHA256.json)
 
-Continuar desde [CURRENT_STATE completo de B2](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/CURRENT_STATE.md).
+Fechas confirmadas por el investigador: Granada 25/10/2018; Tetuán 21/12/2019; Marruecos enero de 2020–diciembre de 2022; María Zambrano 06/04/2023–15/10/2024; APOSTD 16/10/2024–actualidad. La mención inicial de 2025 fue corregida expresamente.
 
-- [Word editable B2 v1.0](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/STRAT_TRACE_B2_v1.0.docx)
-- [PDF B2 v1.0](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/STRAT_TRACE_B2_v1.0.pdf)
-- [Cambios incorporados](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/CAMBIOS_B2_v1.0.md)
-- [Fuentes y comprobaciones](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/FUENTES_Y_COMPROBACIONES.md)
-- [Manifiesto de integridad](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/MANIFEST_SHA256.json)
+Se conserva el contenido de B2 revisado frente a la plantilla de 2026, incluidas EGU 2026, las visitas a Roskilde y la nota de asistencia de IA. El cotejo con Part A permanece pendiente. Las fechas de proyectos no se han sustituido por las fechas laborales.
 
-Este estado corresponde exclusivamente a B2. Los detalles de B1 se mantienen en su estado y archivos anteriores; este archivo no modifica ni publica revisiones pendientes de B1. Para futuras modificaciones de B2, crear una nueva carpeta con fecha y hora, conservar las fuentes y actualizar su estado y registro de cambios.
-
-La publicación documental fue solicitada por Essaid. No se ha enviado correo ni presentado la candidatura.
+Esta operación archiva exclusivamente B2 y sus enlaces de estado. No incorpora revisiones locales pendientes de B1. Se preservan las carpetas anteriores. No se ha enviado correo ni presentado la candidatura.

@@ -1,0 +1,34 @@
+{
+  "version": "1.2",
+  "snapshot_folder": "B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid",
+  "created": "2026-09-08T17:49:22+02:00",
+  "pdf_pages": 6,
+  "visual_review_all_pages": true,
+  "source_sha256": "49c4e5833ca44efe821ce4198e2fcab35caae7a81ca2206f5ba9d8af7bab1322",
+  "files": {
+    "CAMBIOS_B2_v1.2.md": {
+      "sha256": "8c6e1b15ed94418d5dbc9b961a69c408a4ae778d945bd815f844e08bf34d64e7",
+      "bytes": 1458
+    },
+    "CURRENT_STATE.md": {
+      "sha256": "cac793cbf95c39e0b4945af424335126caee62b747cd9daa7919de5d0e7bf889",
+      "bytes": 3784
+    },
+    "FUENTES_Y_COMPROBACIONES.md": {
+      "sha256": "e314f53260a442bb7c37e753a167021131f9cc63f8ca66e80d7434ac7f913ef3",
+      "bytes": 2622
+    },
+    "README.md": {
+      "sha256": "a6b61d88f247483ab32f784a99475c7d63f5633db42fddc2ef843f6660f4f0df",
+      "bytes": 768
+    },
+    "STRAT_TRACE_B2_v1.2.docx": {
+      "sha256": "6dc9a66238fcc334f0c6b57fd65ee1afc436d3dd6b104579e7c9fc2ead8e1ba7",
+      "bytes": 32977
+    },
+    "STRAT_TRACE_B2_v1.2.pdf": {
+      "sha256": "f6e956d2018925afaf9c6b0008536dbda3c9196678cd350aaf10cbb6353649ea",
+      "bytes": 535953
+    }
+  }
+}

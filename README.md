@@ -31,3 +31,17 @@ Versión mejorada del documento B2, preparada el 2026-09-08 15:12:33, Europe/Mad
 - [Manifiesto de integridad](B2_STRAT_TRACE_2026-09-08_15-12-33_Madrid/MANIFEST_SHA256.json)
 
 Esta carpeta conserva el documento B2 y su estado por separado. Las revisiones de B1 y sus referencias anteriores permanecen intactas. El archivo en GitHub no constituye el envío de la candidatura.
+
+
+<!-- STRAT-TRACE-B2-v1.2 -->
+## Part B2 — v1.2, fechas confirmadas
+
+Revisión del 8 de septiembre de 2026 con las fechas doctorales y contractuales confirmadas por Essaid Chham; APOSTD comienza el 16/10/2024.
+
+- [CURRENT_STATE actualizado de B2](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/CURRENT_STATE.md)
+- [Word B2 v1.2](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/STRAT_TRACE_B2_v1.2.docx)
+- [PDF B2 v1.2](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/STRAT_TRACE_B2_v1.2.pdf)
+- [Cambios de B2](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/CAMBIOS_B2_v1.2.md)
+- [Comprobaciones](B2_STRAT_TRACE_2026-09-08_17-49-22_Madrid/FUENTES_Y_COMPROBACIONES.md)
+
+Las carpetas anteriores se conservan. Esta actualización documental de B2 no constituye el envío de la candidatura.
